@@ -1,10 +1,29 @@
 # sistem-pakar
-Diagnosa tumor otak 
+# Sistem Pakar Diagnosa Tumor Otak
 
-Cara run
+Ini adalah aplikasi sederhana untuk mendiagnosa tumor otak berdasarkan gejala yang dipilih pengguna.
 
-pastikan anda sudha menginstall [node js](https://nodejs.org/)
+## Cara Menjalankan Aplikasi
 
-lalu jalankan npm install 
+Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/).
 
-jika sudah kamu dapat mencoba membukanya pada halaman index.html
+### Langkah-langkah:
+
+1. **Clone Repositori**
+   ```bash
+   git clone https://github.com/Doni354/Expert-System
+   cd sistem-pakar
+   ```
+
+2. **Install Dependensi**
+   ```bash
+   npm install
+   ```
+
+3. **Menjalankan Aplikasi**
+   Buka file `index.html` pada browser untuk menjalankan aplikasi.
+
+## Teknologi yang Digunakan
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js (untuk manajemen dependensi)
