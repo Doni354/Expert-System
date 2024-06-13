@@ -1,0 +1,19 @@
+{
+  "name": "sistem-pakar",
+  "version": "1.0.0",
+  "description": "Diagnosa tumor otak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sistem",
+    "pakar",
+    "cf"
+  ],
+  "author": "Doni_354",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
