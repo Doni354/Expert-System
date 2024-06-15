@@ -7,6 +7,7 @@ Ini adalah aplikasi sederhana untuk mendiagnosa tumor otak berdasarkan gejala ya
 
 Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/).
 
+Atau Kamu bisa me aksesnya langsung melewati [melewati](https://doni354.github.io/Expert-System/) 
 ### Langkah-langkah:
 
 1. **Clone Repositori**
